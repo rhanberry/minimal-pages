@@ -23,7 +23,8 @@ github_username: rhanberry
 minimal_mistakes_skin: default
 search: true
 github: [metadata]
-
+url: "https://rhanberry.github.io"
+baseurl: "minimal-pages"
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
