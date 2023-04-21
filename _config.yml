@@ -57,9 +57,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "Rick Hanberry"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "As an artist and recovering scientist my work centers around a fascination with our roles in nature, and more recently our relationship with machines."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
